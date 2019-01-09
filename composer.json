@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-mobile-detect",
+    "description": "Front-end-plugin som returnerar aktuell enhet",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
