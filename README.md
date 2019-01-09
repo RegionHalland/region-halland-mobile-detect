@@ -74,3 +74,4 @@ OBS! Justera så att du hämtar aktuell version.
 
 ### 1.0.0
 - Första version
+- Version 2.8.33 av PHP-klassen Mobile_Detect (http://mobiledetect.net) 
