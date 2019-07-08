@@ -60,7 +60,7 @@ OBS! Justera så att du hämtar aktuell version.
 ```
 
 
-## Visa "breadcrumbs" på en sida via "Blade"
+## Visa vilken "device type" användaren surfar med via "Blade"
 
 ```sh
 @php($deviceType = get_region_halland_device_type())
