@@ -81,6 +81,12 @@ OBS! Justera så att du hämtar aktuell version.
 
 ## Versionhistorik
 
+### 1.2.0
+- Uppdaterat readme med nya länkar
+
+### 1.1.0
+- Lagt till information om licensmodell
+
 ### 1.0.0
 - Första version
 - Version 2.8.33 av PHP-klassen Mobile_Detect (http://mobiledetect.net) 
