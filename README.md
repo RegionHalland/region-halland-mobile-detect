@@ -10,6 +10,15 @@ Nedan följer instruktioner hur du kan använda pluginet "region-halland-mobile-
 Denna plugin returnerar en sträng med aktuell enhet, dvs 'tablet', 'phone' eller 'computer'
 
 
+## Licensmodell
+
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell på:
+```sh
+A) Gnu.org (https://www.gnu.org/licenses/gpl-3.0.html)
+B) Wikipedia (https://sv.wikipedia.org/wiki/GNU_General_Public_License)
+```
+
+
 ## Installation och aktivering
 
 ```sh
