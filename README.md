@@ -12,10 +12,9 @@ Denna plugin returnerar en sträng med aktuell enhet, dvs 'tablet', 'phone' elle
 
 ## Licensmodell
 
-Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell på:
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell via den medföljande filen:
 ```sh
-A) Gnu.org (https://www.gnu.org/licenses/gpl-3.0.html)
-B) Wikipedia (https://sv.wikipedia.org/wiki/GNU_General_Public_License)
+LICENSE (https://github.com/RegionHalland/region-halland-mobile-detect/blob/master/LICENSE)
 ```
 
 
@@ -80,6 +79,9 @@ OBS! Justera så att du hämtar aktuell version.
 
 
 ## Versionhistorik
+
+### 1.3.0
+- Bifogat fil med licensmodell
 
 ### 1.2.0
 - Uppdaterat readme med nya länkar
